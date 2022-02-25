@@ -1,0 +1,16 @@
+25/Feb/2022
+Armando Ibarrarán.
+
+- Una idea sencilla que te simplifica un pcoo el problema te puede ayudar mucho, aplícala y trata de volver a plantear el problema
+
+Grafos y dependencias: Encontrar a alguien sin dependencias -> crear arreglo que lleve un conteo (número) de los que depende
+    - Kosarayus Algorithm for topological sort.
+
+Complejidad de un algoritmo:
+    - Es el número de operaciones que se realiza en un algoritmo, dependiente de las variables de entrada
+    - Es mejor mientras menor sea
+    - Busqueda binaria ayuda (el número de veces que puedes dividir algo a la mitad es log2(n))
+        - Funciona SOLO en situaciones donde a partir de cotas hay solo una región de verdaderos (o mayores) y solo una de falsos (o menores)
+        - No pierdas tiempo creando buenas cotas
+
+- Página de concursos muy completa: https://codeforces.com/
